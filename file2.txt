@@ -1,0 +1,2 @@
+Welcome to file 2.
+We are working on git.
